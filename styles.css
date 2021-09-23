@@ -1,0 +1,23 @@
+table {
+    max-width: 450px;
+    width: 100%;
+
+}
+table, td {
+    border-bottom: 1px solid black;
+    padding-left: 0.1rem;
+    padding-right: 0.1rem;
+    text-align: center;
+    border-collapse: collapse;
+  }
+
+th {
+      border-top: 2px solid black;
+      border-bottom: 2px solid black;
+      border-collapse: collapse;
+      padding: 0.1rem;
+  }
+
+  #wins-table-row-1 {
+    background-color: rgb(190, 235, 235);  
+  }
