@@ -21,3 +21,9 @@ th {
   #wins-table-row-1 {
     background-color: rgb(190, 235, 235);  
   }
+
+  img {
+    padding-top: 2rem;
+    max-width: 750px;
+
+  }
