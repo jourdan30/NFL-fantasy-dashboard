@@ -113,7 +113,7 @@ function createWinsTable () {
 
 //// //// //// //// ////    ----    REC & RUSH YARDS LEADERS BY TEAM    ----   //// //// //// //// //// 
 
-let leadersUrl = "http://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard";
+let leadersUrl = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard";
 let leadersObj;
 let leadersData;
 let receivingLeaders = [];
